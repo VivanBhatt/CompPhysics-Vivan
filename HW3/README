@@ -1,0 +1,6 @@
+HW3 Task:
+
+1. Sections 10.0 and 10.5 of Numerical Recipes on Minimization or Maximization of Functions discuss the downhill simplex method due to Nelder and Mead. 
+2. The reference for their original article is - Nelder, J.A., and Mead, R. 1965, “A Simplex Method for Function Minimization,” Computer Journal, vol. 7, pp. 308–313.
+3. As seen in Figure 10.5.1, the four possible outcomes for a step in the downhill simplex method are (a) Reflection, (b) Reflection and Expansion, (c) Contraction, and (d) Multiple Contraction.
+4. Section 9.2.1 discusses Ridder's method of root finding based on his article "A New Algorithm for Computing a Single Root of a Real Continuous Function" on pages 979 and 980 of vol. CAS-26 of the IEEE Transactions on Circuits and Systems. The following article on page 980 is "Monotonic Magnitude Response with Equal Ripple Sensitivity" by D.M. Rabrenovic and Z.J. Aleksic.  
